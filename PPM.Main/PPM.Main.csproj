@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    
+    <ProjectReference Include="..\PPM.Domain\PPM.Domain.csproj" />
+    <ProjectReference Include="..\PPM.Model\PPM.Model.csproj" />
+    <ProjectReference Include="..\PPM.Console.UI\PPM.Console.UI.csproj" />
+    <ProjectReference Include="..\PPM.DAL\PPM.DAL.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

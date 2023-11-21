@@ -1,0 +1,12 @@
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Users\RiGupta\Desktop\PPM12104\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
