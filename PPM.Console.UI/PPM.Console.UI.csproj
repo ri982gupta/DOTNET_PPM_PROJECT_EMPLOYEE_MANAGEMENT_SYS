@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PPM.Model\PPM.Model.csproj" />
+    <ProjectReference Include="..\PPM.Domain\PPM.Domain.csproj" />
+    <ProjectReference Include="..\PPM.DAL\PPM.DAL.csproj" />
+
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
