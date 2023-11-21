@@ -1,0 +1,15 @@
+C:\Users\RiGupta\Desktop\PPM12104\bin\Debug\net7.0\PPM12104.exe
+C:\Users\RiGupta\Desktop\PPM12104\bin\Debug\net7.0\PPM12104.deps.json
+C:\Users\RiGupta\Desktop\PPM12104\bin\Debug\net7.0\PPM12104.runtimeconfig.json
+C:\Users\RiGupta\Desktop\PPM12104\bin\Debug\net7.0\PPM12104.dll
+C:\Users\RiGupta\Desktop\PPM12104\bin\Debug\net7.0\PPM12104.pdb
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.csproj.AssemblyReference.cache
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.AssemblyInfoInputs.cache
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.AssemblyInfo.cs
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.csproj.CoreCompileInputs.cache
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.dll
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\refint\PPM12104.dll
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.pdb
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\PPM12104.genruntimeconfig.cache
+C:\Users\RiGupta\Desktop\PPM12104\obj\Debug\net7.0\ref\PPM12104.dll
