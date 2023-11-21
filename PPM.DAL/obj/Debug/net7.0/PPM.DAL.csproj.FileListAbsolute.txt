@@ -1,0 +1,15 @@
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\bin\Debug\net7.0\PPM.DAL.deps.json
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\bin\Debug\net7.0\PPM.DAL.dll
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\bin\Debug\net7.0\PPM.DAL.pdb
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.AssemblyReference.cache
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfoInputs.cache
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.AssemblyInfo.cs
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.csproj.CopyComplete
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.dll
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\refint\PPM.DAL.dll
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\PPM.DAL.pdb
+C:\Users\RiGupta\Desktop\PPM12104\PPM.DAL\obj\Debug\net7.0\ref\PPM.DAL.dll
